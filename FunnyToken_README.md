@@ -128,6 +128,10 @@ mization
 1. Transfer tokens divisible by 42.
 ## Example Usage
 
+## Example Usage
+
+1. Transfer tokens divisible by 42.
+
 1. Transfer tokens divisible by 42.
 2. Occasionally, tokens may be burned or random rewards distributed.
 
