@@ -141,6 +141,10 @@ mization
 
 ## License
 
+## Example Usage
+
+1. Transfer tokens divisible by 42.
+
 This project is licensed under the MIT License.
 
 ## License
