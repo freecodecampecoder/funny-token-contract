@@ -55,3 +55,7 @@ FunnyToken (FUN) is an ERC-20 token with built-in "fun" mechanics that add rando
 ## License
 
 This project is licensed under the MIT License.
+
+## License
+
+This project is licensed under the MIT License.
