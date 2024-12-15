@@ -119,6 +119,10 @@ mization
 
 ## Example Usage_randomRewardChance)`: Adjust the chance of random rewards (0–100).
 
+
+## Example Usage
+
+1. Transfer tokens divisible by 42.
 ## Example Usage
 
 1. Transfer tokens divisible by 42.
