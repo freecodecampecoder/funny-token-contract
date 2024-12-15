@@ -121,6 +121,9 @@ mization
 
 
 ## Example Usage
+## Example Usage
+
+1. Transfer tokens divisible by 42.
 
 1. Transfer tokens divisible by 42.
 ## Example Usage
