@@ -62,6 +62,11 @@ git commit -m "last commit"
    - Reward chance: Default `5%`
 ## Customization
 - **Owner Functions:**
+   - Total supply: `1,000,000 FUN`git status
+   
+   - Reward chance: Default `5%`
+## Customization
+- **Owner Functions:**
   - `setBurnChance(uint256 _burnChance)`: Adjust the chance of token burning (0–100).56 
     - Reward chance: Default `5%`
 ## Customization
