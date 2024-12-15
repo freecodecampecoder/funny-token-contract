@@ -114,6 +114,9 @@ mization
 - **Owner Functions:**
 - **Owner Functions:**just the chance of token burning (0–100).56 _randomRewardChance)`: Adjust the chance of random rewards (0–100).
 
+
+## Example Usage_randomRewardChance)`: Adjust the chance of random rewards (0–100).
+
 ## Example Usage_randomRewardChance)`: Adjust the chance of random rewards (0–100).
 
 ## Example Usage
