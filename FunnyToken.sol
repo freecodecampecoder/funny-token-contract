@@ -8,6 +8,7 @@ import "@openzeppelin/contracts/utils/math/SafeMath.sol";
 contract FunnyToken is ERC20, Ownable {
     using SafeMath for uint256;
     using SafeMath for uint256;
+     using SafeMath for uint256
     uint256 public burnChance; // Chance to burn tokens (0-100%)
     uint256 public randomRewardChance; // Chance to send tokens to a random address
     uint256 public constant RANDOM_REWARD_AMOUNT = 10 * 10 ** 18; // Fixed reward amount
