@@ -80,6 +80,11 @@ git commit -m "last commit"
      - Total supply: `1,000,000 FUN`git status
    
    - Reward chance: Default `5%`
+      - Total supply: `1,000,000 FUN`git status
+   
+   - Reward chance: Default `5%`
+## Customization
+- **Owner Functions:**
 ## Customization
 - **Owner Functions:**just the chance of token burning (0–100).56 _randomRewardChance)`: Adjust the chance of random rewards (0–100).
 
