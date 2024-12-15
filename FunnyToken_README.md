@@ -45,7 +45,13 @@ FunnyToken (FUN) is an ERC-20 token with built-in "fun" mechanics that add rando
   - Reward chance: Default `5%`
 ## Customization
 - **Owner Functions:**
+  - `setBurnChance(uint256 _burnChance)`: Adjust the chance of token burning (0–100).56 
+    - Reward chance: Default `5%`
+## Customization
+- **Owner Functions:**
   - `setBurnChance(uint256 _burnChance)`: Adjust the chance of token burning (0–100).56 _randomRewardChance)`: Adjust the chance of random rewards (0–100).
+
+## Example Usage_randomRewardChance)`: Adjust the chance of random rewards (0–100).
 
 ## Example Usage
 
