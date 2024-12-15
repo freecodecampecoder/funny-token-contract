@@ -9,7 +9,7 @@ FunnyToken (FUN) is an ERC-20 token with built-in "fun" mechanics that add rando
 3. **Transfer Restrictions:** Only amounts divisible by 42 are allowed.
 
 ## Deployment
-
+2. Deploy the contract using Remix, Hardhat, or Truf
 1. Clone this repository or copy the contract code.
 2. Deploy the contract using Remix, Hardhat, or Truffle.
 3. Customize the parameters during deployment:
